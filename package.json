@@ -1,0 +1,18 @@
+{
+  "name": "my-blog-backend",
+  "version": "1.0.0",
+  "description": "my blog backend",
+  "main": "index.js",
+  "dependencies": {
+    "@babel/core": "^7.7.4",
+    "@babel/node": "^7.7.4",
+    "@babel/preset-env": "^7.7.4",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Donnatto",
+  "license": "MIT"
+}
